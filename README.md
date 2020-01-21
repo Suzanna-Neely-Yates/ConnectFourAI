@@ -1,6 +1,6 @@
 # ConnectFourAI
 
-A Connect Four game with self-created AI. 
+A Connect Four game with a self-created AI!
 
 To Play Against AI:
 1. Open a new terminal
